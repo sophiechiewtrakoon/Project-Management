@@ -12,7 +12,7 @@
 
   5) Timeboxed Meetings: Ensure standups are timeboxed and free from arbitrary rituals, allowing for focused discussions. 
 
-__References:__
+__References:__     
 [The Complete Guide to Daily Standups for Agile Teams](https://www.stepsize.com/blog/the-complete-guide-to-daily-standups-for-agile-teams)
 
 [Everything You Need to Know About Standups](https://runsteady.com/blog/everything-you-need-to-know-about-standups/)
@@ -21,4 +21,9 @@ __References:__
 
 [11 Effective Ways to Organize Daily Standup Meetings](https://woculus.com/how-to-organize-daily-standup-meetings/)
 
-### [Project Board]()
+
+### Organizing Project Boards    
+
+[What is a Project Board? Benefits, Examples, and How to Use One](https://teamhood.com/project-management/project-board/)
+
+[How to Organize Your Life With Kanban Boards](https://www.pcmag.com/how-to/get-organized-how-to-stay-focused-with-personal-kanban)
