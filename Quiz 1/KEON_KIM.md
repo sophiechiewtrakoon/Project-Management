@@ -4,6 +4,6 @@
 </p>
 
 <p align = "center" > 
-<img width = "200" height = "200" src="[family.jpg](https://docs.google.com/document/d/1J7pGlZ8Kq2GqI5RTAOr3_OalPGfZ0p4sv1Ni_5v4keQ/edit?tab=t.0)"><br>
+<img width = "200" height = "200" src="[family.jpg](https://drive.google.com/file/d/1qnsbQ25cDiBaP5KHBhEuf3Rxs6okEEfh/view?usp=drive_link)"><br>
   My family and I on a vacation in Punta Cana
 </p>
