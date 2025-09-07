@@ -3,7 +3,7 @@
   <b> Family </b>
 </p>
 
-<p> align = "center" 
+<p align = "center" > 
 <img width = "40" height = "40" src.family.jpg><br>
   My family and I on a vacation in Punta Cana
 </p>
