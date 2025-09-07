@@ -1,5 +1,5 @@
 # My Family
-<p> align = "center"
+<p align = "center"> 
   <b> Family </b>
 </p>
 
