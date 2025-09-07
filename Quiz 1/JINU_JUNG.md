@@ -1,6 +1,6 @@
 # Jinu Jung's Quiz 1 
 
-## Quiz 1
+## What is this?
 This is my submission for Quiz 1 in IS 340.
 I created this file as part of the steps for the assignment.
 
