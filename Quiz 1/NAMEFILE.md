@@ -2,6 +2,6 @@
 Bradly Alicea   
 Shenhua Zhang   
 Bradly Alicea         
-Jinu Jung     
+Jinu Jung
 Ulysses Martinez Fermin
 Natasha Nangia
