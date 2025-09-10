@@ -10,3 +10,4 @@ Natasha Nangia
 Ashka Rastogi    
 Jinu Jung      
 Ulysses Martinez Fermin     
+Xinxuan Shen
