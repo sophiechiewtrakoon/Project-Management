@@ -1,5 +1,6 @@
 ## Write your name on its own line:   
-Bradly Alicea   
+Bradly Alicea    
+Jaypal Patel    
 Irith Chaturvedi   
 Rachel Li    
 Keon Kim    
