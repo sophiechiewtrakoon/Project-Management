@@ -4,6 +4,9 @@ Rachel Li
 Keon Kim    
 Shenhua Zhang   
 Bradly Alicea         
-Ashka Rastogi
-Jinu Jung     
+Jinu Jung    
+Ulysses Martinez Fermin
+Natasha Nangia    
+Ashka Rastogi    
+Jinu Jung      
 Ulysses Martinez Fermin     
