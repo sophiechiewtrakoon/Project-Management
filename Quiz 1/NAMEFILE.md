@@ -3,4 +3,5 @@ Bradly Alicea
 Shenhua Zhang   
 Bradly Alicea         
 Jinu Jung     
-Ulysses Martinez Fermin    
+Ulysses Martinez Fermin
+Natasha Nangia
