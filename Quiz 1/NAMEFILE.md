@@ -11,5 +11,7 @@ Ulysses Martinez Fermin
 Natasha Nangia    
 Ashka Rastogi    
 Jinu Jung      
+Ulysses Martinez Fermin     
+Xinxuan Shen    
 Ulysses Martinez Fermin    
-Alex Soja
+Alex Soja    
