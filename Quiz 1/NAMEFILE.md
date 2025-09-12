@@ -15,3 +15,4 @@ Ulysses Martinez Fermin
 Xinxuan Shen    
 Ulysses Martinez Fermin    
 Alex Soja    
+Sammie Brish
